@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Niks Designer Portfolio
 
 A static website (HTML, CSS, JavaScript). No build step, no server, no database.
@@ -30,3 +31,7 @@ Double-click `index.html`. Fonts load from Google Fonts, so the typefaces need i
 1. Run: `python3 tools/add_project.py my-id "My Title" social-media a.jpg b.jpg` (needs `pip install pillow`).
 2. Paste the printed block into the `PROJECTS` array in `js/projects-data.js` and fill in the details.
 Without Python: export WebP images (max 1600 px long edge) into `assets/img/full/` and 720 px copies into `assets/img/thumb/`, named `<project-id>-<number>.webp`, then write the entry by hand.
+=======
+# 
+Graphics portfolio
+>>>>>>> 3a5057a41bafdf3c7ef3d10f3c3c6c0241c8faf3
